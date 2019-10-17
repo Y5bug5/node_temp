@@ -1,0 +1,24 @@
+{
+  "name": "node_temp",
+  "version": "1.0.0",
+  "description": "node_temp 随便吧，尽量不要下载",
+  "main": "app.js",
+  "scripts": {
+    "test": "node_temp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_temp"
+  },
+  "keywords": [
+    "node_temp"
+  ],
+  "author": "Y5bug5",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0"
+  }
+}
